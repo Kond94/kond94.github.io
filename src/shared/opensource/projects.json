@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkxNTcxNTcxNTg=",
+      "name": "Remote Poultry Incubator Monitoring System",
+      "createdAt": "2018-11-12T04:38:36Z",
+      "url": "https://github.com/Kond94/RIMS",
+      "description": "Lets users monitor Tempreture, humidity & hatching cycles remotely using IOT.",
+      "isFork": false,
+      "languages": [
+        { "name": "C#", "iconifyClass": "logos-c-sharp" },
+        { "name": "CSS", "iconifyClass": "logos-css-3" },
+        { "name": "JavaScript", "iconifyClass": "logos-javascript" },
+        { "name": "HTML", "iconifyClass": "logos-html-5" }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkxNTcxNTcxNTg=asdc",
+      "name": "MANEB ID's",
+      "createdAt": "2020-11-12T04:38:36Z",
+      "description": "A system collects & manages candidate data, crops their Images & Signatures and prints ID's ",
+      "isFork": false,
+      "languages": [
+        { "name": "MYSQL", "iconifyClass": "logos-mysql" },
+        { "name": "PHP", "iconifyClass": "logos-php" },
+        { "name": "Java", "iconifyClass": "logos-java" }
+      ]
+    },
+    {
+      "id": "R_kgDOG6RwAQ",
+      "name": "Hawker",
+      "description": "A C2C Market place. Enables buyers and sellers to exchage products seamlessly.",
+      "createdAt": "2022-02-26T05:20:16Z",
+      "url": "https://github.com/Kond94/Hawker",
+      "isFork": false,
+      "languages": [
+        { "name": "JavaScript", "iconifyClass": "logos-javascript" },
+        { "name": "Java", "iconifyClass": "logos-java" },
+        { "name": "Shell", "iconifyClass": "simple-icons:shell" }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyMjk3NDkxMTg=",
+      "name": "Mobile-Money-Business-Manager",
+      "createdAt": "2019-12-23T12:32:39Z",
+      "url": "https://github.com/Kond94/Mobile-Money-Business-Manager",
+      "description": "Track cash and E-Value at Kiosks. Autogenerates reports: Blancing, Commissions etc.",
+      "isFork": false,
+      "languages": [
+        { "name": "C#", "iconifyClass": "logos-c-sharp" },
+        { "name": "HTML", "iconifyClass": "logos-html-5" },
+        { "name": "CSS", "iconifyClass": "logos-css-3" },
+        { "name": "JavaScript", "iconifyClass": "logos-javascript" }
+      ]
+    },
+    {
+      "id": "R_kgDOIXWSsA",
+      "name": "NextGen-SACCO",
+      "createdAt": "2022-11-03T14:05:41Z",
+      "url": "https://github.com/Kond94/NextGen-SACCO",
+      "description": null,
+      "isFork": false,
+      "languages": [
+        { "name": "HTML", "iconifyClass": "logos-html-5" },
+        { "name": "JavaScript", "iconifyClass": "logos-javascript" },
+        { "name": "CSS", "iconifyClass": "logos-css-3" }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyOTAxMjY5NDM=",
+      "name": "MLW-Secure-Chat",
+      "createdAt": "2020-08-25T05:57:49Z",
+      "url": "https://github.com/Kond94/MLW-Secure-Chat",
+      "description": "Lets health doctors, technicians & researchers disscuss confidential patient data remotely.",
+      "isFork": false,
+      "languages": [
+        { "name": "JavaScript", "iconifyClass": "logos-javascript" },
+        { "name": "Java", "iconifyClass": "logos-java" },
+        { "name": "Ruby", "iconifyClass": "logos:ruby" },
+        { "name": "PHP", "iconifyClass": "logos-php" }
+      ]
+    }
+  ]
+}
