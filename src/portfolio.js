@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "Kondwerani's Portfolio",
   description:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "A passionate sytems developer who strives to develop and deliver quality end to end social and technical systems and products which are both sustainable and scalable with the aim of creating a real impact.",
   og: {
     title: "Kondwerani Kamsesa Portfolio",
     type: "website",
@@ -31,15 +31,6 @@ const greeting = {
 };
 
 const socialMediaLinks = [
-  /* Your Social Media Link */
-  // github: "https://github.com/kond94",
-  // linkedin: "https://www.linkedin.com/in/ashutosh-hathidara-88710b138/",
-  // gmail: "kamsesakond@gmail.com@gmail.com",
-  // gitlab: "https://gitlab.com/ashutoshhathidara98",
-  // facebook: "https://www.facebook.com/Kondweranikamsesa/",
-  // twitter: "https://twitter.com/kond94",
-  // instagram: "https://www.instagram.com/kond94/"
-
   {
     name: "Github",
     link: "https://github.com/kond94",
@@ -276,7 +267,7 @@ const competitiveSites = {
     //     style: {
     //       color: "#2EC866",
     //     },
-    //     profileLink: "https://www.hackerrank.com/layman_brother",
+    //     profileLink: "https://www.hackerrank.com/",
     //   },
     //   {
     //     siteName: "Codechef",
@@ -284,7 +275,7 @@ const competitiveSites = {
     //     style: {
     //       color: "#5B4638",
     //     },
-    //     profileLink: "https://www.codechef.com/users/ashutosh_1919",
+    //     profileLink: "https://www.codechef.com/users/",
     //   },
     //   {
     //     siteName: "Codeforces",
@@ -292,7 +283,7 @@ const competitiveSites = {
     //     style: {
     //       color: "#1F8ACB",
     //     },
-    //     profileLink: "http://codeforces.com/profile/layman_brother",
+    //     profileLink: "http://codeforces.com/profile/",
     //   },
     //   {
     //     siteName: "Hackerearth",
@@ -300,7 +291,7 @@ const competitiveSites = {
     //     style: {
     //       color: "#323754",
     //     },
-    //     profileLink: "https://www.hackerearth.com/@ashutosh391",
+    //     profileLink: "https://www.hackerearth.com/",
     //   },
     //   {
     //     siteName: "Kaggle",
@@ -601,7 +592,6 @@ const contactPageData = {
   blogSection: {
     title: "Favorite Quote",
     subtitle: "If at first you don’t succeed; call it version 1.0",
-    // link: "https://ashutoshhathidara.wordpress.com",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
