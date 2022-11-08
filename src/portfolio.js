@@ -1,5 +1,3 @@
-/* Change this file to get your personal Porfolio */
-
 // Website related settings
 const settings = {
   isSplash: false, // Change this to false if you don't want Splash screen.
@@ -328,7 +326,7 @@ const certifications = {
       subtitle: "- Mosh Hamedani",
       logo_path: "cwm.png",
       // certificate_link:
-      //   "https://www.coursera.org/account/accomplishments/certificate/NRANJA66Y2YA",
+      //   "https://www.coursera.org/account/accomplishments/certificate",
       alt_name: "Coursera",
       color_code: "#2A73CC",
     },
@@ -337,7 +335,7 @@ const certifications = {
       subtitle: "- Mosh Hamedani",
       logo_path: "cwm.png",
       // certificate_link:
-      //   "https://google.qwiklabs.com/public_profiles/e4d5a92b-faf6-4679-a70b-a9047c0cd750",
+      //   "https://google.qwiklabs.com/public_profiles/",
       alt_name: "GCP",
       color_code: "#4285F499",
     },
@@ -346,7 +344,7 @@ const certifications = {
       subtitle: "- Wes Bos",
       logo_path: "wb.png",
       // certificate_link:
-      //   "https://drive.google.com/open?id=1z5ExD_QJVdU0slLkp8CBqSF3-C3g-ro_",
+      //   "https://drive.google.com/open?",
       alt_name: "NPTEL",
       color_code: "#FFBB0099",
     },
@@ -355,7 +353,7 @@ const certifications = {
       subtitle: "- Mosh Hamedani",
       logo_path: "cwm.png",
       // certificate_link:
-      //   "https://google.qwiklabs.com/public_profiles/5fab4b2d-be6f-408c-8dcb-6d3b58ecb4a2",
+      //   "https://google.qwiklabs.com/public_profiles/",
       alt_name: "GCP",
       color_code: "#4285F499",
     },
@@ -364,7 +362,7 @@ const certifications = {
       subtitle: "- Mosh Hamedani",
       logo_path: "cwm.png",
       // certificate_link:
-      //   "https://www.coursera.org/account/accomplishments/verify/22MTSSC5WDTM",
+      //   "https://www.coursera.org/account/accomplishments/verify/",
       alt_name: "Stanford University",
       color_code: "#8C151599",
     },
@@ -373,7 +371,7 @@ const certifications = {
       subtitle: "- Mosh Hamedani",
       logo_path: "cwm.png",
       // certificate_link:
-      //   "https://www.coursera.org/account/accomplishments/verify/22MTSSC5WDTM",
+      //   "https://www.coursera.org/account/accomplishments/verify/",
       alt_name: "Stanford University",
       color_code: "#8C151599",
     },
@@ -382,7 +380,7 @@ const certifications = {
       subtitle: "- Cisco",
       logo_path: "cisco.png",
       // certificate_link:
-      //   "https://www.coursera.org/account/accomplishments/verify/22MTSSC5WDTM",
+      //   "https://www.coursera.org/account/accomplishments/verify/",
       alt_name: "Stanford University",
       color_code: "#8C151599",
     },
@@ -403,7 +401,6 @@ const experience = {
         {
           title: "Developer",
           company: "Freelance",
-          // company_url: "https://legatohealthtech.com/",
           logo_path: "legato_logo.png",
           duration: "June 2017 - PRESENT",
           location: "Blantyre, Malawi",
@@ -465,29 +462,6 @@ const experience = {
     // {
     //   title: "Internships",
     //   experiences: [
-    //     {
-    //       title: "Data Science Research Intern",
-    //       company: "Delhivery Pvt. Ltd.",
-    //       company_url: "https://www.delhivery.com/",
-    //       logo_path: "delhivery_logo.png",
-    //       duration: "May 2019 - Sept 2019",
-    //       location: "Gurgaon, Haryana",
-    //       description:
-    //         "I have worked on project of predicting freight rates based on previous data. There were two objectives: (1) To build a forecasting engine to predict daily freight rates. (2) To embed feature in the model which can explain the seasonal major changes in freight rate based on regions and locations. I have closely worked with deep learning models in combination with statistical methods to create solution for this. At the end of internship, I had created model deployed on AWS EC2 with the use of Kafka stream jobs, ElasticSearch and PostgreSQL.",
-    //       color: "#ee3c26",
-    //     },
-    //     {
-    //       title: "Data Science Intern",
-    //       company: "Intel Indexer LLC",
-    //       company_url:
-    //         "https://opencorporates.com/companies/us_dc/EXTUID_4170286",
-    //       logo_path: "intel_logo.jpg",
-    //       duration: "Nov 2018 - Dec 2018",
-    //       location: "Work From Home",
-    //       description:
-    //         "This is financial Solution Company. I have made Supervised Learning model for the company which can perform time series analysis on Stock price data for 32 companies. I have built LSTM Neural Networks Model and trained the data of 32 companies for last 2 years. This model is also used for forecasting.",
-    //       color: "#0071C5",
-    //     },
     //   ],
     // },
     {
@@ -504,18 +478,6 @@ const experience = {
             "Microsoft Student Partner is a program for university students to lead the awareness and use of Cloud especially Azure tools in the development of their projects and startups. Under this program, I have organised hands on workshops and seminars to teach Cloud Computing concepts to students.",
           color: "#D83B01",
         },
-
-        // {
-        //   title: "Developer Program Member",
-        //   company: "Github",
-        //   company_url: "https://github.com/",
-        //   logo_path: "github_logo.png",
-        //   duration: "July 2019 - PRESENT",
-        //   location: "Work From Home",
-        //   description:
-        //     "I am actively contributing to many opensource projects. I have contributed to projects of organisations like Tensorflow, Uber, Facebook, Google, Scikit-learn, Kiwix, Sympy, Python, NVLabs, Fossasia, Netrack, Keras etc. These contributions include bug fixes, feature requests and formulating proper documentation for project.",
-        //   color: "#181717",
-        // },
       ],
     },
   ],
@@ -525,7 +487,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.",
+    "My projects makes use of vast variety of latest technology tools. My best experience is to create data intensive projects and deploy them to web applications using cloud infrastructure.",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -540,38 +502,6 @@ const publications = {
   data: [
     //   {
     //     id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-    //     name: "Artificial Intelligence Paper",
-    //     createdAt: "2020-03-06T16:26:54Z",
-    //     description: "Paper Written on Artificial Intelligence published in xyz ",
-    //     url:
-    //       "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
-    //   },
-    //   {
-    //     id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzi=",
-    //     name: "Artificial Intelligence Paper",
-    //     createdAt: "2020-03-06T16:26:54Z",
-    //     description: "Paper Written on Artificial Intelligence published in xyz ",
-    //     url:
-    //       "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
-    //   },
-    //   {
-    //     id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNze=",
-    //     name: "Artificial Intelligence Paper",
-    //     createdAt: "2020-03-06T16:26:54Z",
-    //     description: "Paper Written on Artificial Intelligence published in xyz ",
-    //     url:
-    //       "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
-    //   },
-    //   {
-    //     id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzt=",
-    //     name: "Artificial Intelligence Paper",
-    //     createdAt: "2020-03-06T16:26:54Z",
-    //     description: "Paper Written on Artificial Intelligence published in xyz ",
-    //     url:
-    //       "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
-    //   },
-    //   {
-    //     id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzb=",
     //     name: "Artificial Intelligence Paper",
     //     createdAt: "2020-03-06T16:26:54Z",
     //     description: "Paper Written on Artificial Intelligence published in xyz ",
